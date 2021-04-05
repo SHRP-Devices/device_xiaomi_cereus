@@ -88,3 +88,5 @@ SHRP_SKIP_DEFAULT_ADDON_4 := true
 SHRP_INTERNAL := /sdcard
 SHRP_EXTERNAL := /external_sd
 SHRP_OTG := /usb_otg
+# OFFICIAL
+SHRP_OFFICIAL := true
