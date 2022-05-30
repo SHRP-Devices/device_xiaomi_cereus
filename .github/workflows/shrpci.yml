@@ -35,7 +35,7 @@ jobs:
          uses: rokibhasansagar/slimhub_actions@main
 
        - name: Recovery Compilation
-         uses: ElytrA8/Recovery-Compiler@production
+         uses: SHRP-Devices/Recovery-Compiler@release
 
        - name: PUSH To TG
          run: |
